@@ -7,3 +7,6 @@ When running the convert_image_format_to_png.py file:
 - Give the destination folder to store the converted images as the second command line argument.
 
 If the second folder does not exist, it will be created with the name given.
+
+## Dependencies
+- [Pillow](https://pillow.readthedocs.io/en/stable/).
